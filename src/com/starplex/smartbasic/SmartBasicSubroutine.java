@@ -30,6 +30,8 @@ enum SmartBasicOperatorType {
 
 class SmartBasicOperator {
     SmartBasicOperatorType type = SmartBasicOperatorType.NONE;
+
+    // TODO: Add attribute fields to class
 }
 
 enum SmartBasicOperationType {
